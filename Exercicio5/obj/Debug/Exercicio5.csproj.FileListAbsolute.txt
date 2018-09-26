@@ -1,0 +1,5 @@
+I:\Programação e algoritmos\Exercicios while3\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+I:\Programação e algoritmos\Exercicios while3\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+I:\Programação e algoritmos\Exercicios while3\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+I:\Programação e algoritmos\Exercicios while3\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+I:\Programação e algoritmos\Exercicios while3\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb
